@@ -16,9 +16,9 @@ This project aims to identify DDoS attacks using entropy computing to determine 
 
 ## Features
 
+- Sends Packets to server.
+- Server get Packets and DDOS attack successfull.
 - Detect DDoS attacks using entropy-based methods
-- Calculate the accuracy of attack detection
-- Visualize the detection process
 
 ## Installation
 
@@ -37,12 +37,9 @@ This project aims to identify DDoS attacks using entropy computing to determine 
 
 ## Usage
 
-1. Prepare your dataset with network traffic data.
-2. Run the detection script:
-    ```sh
-    python detect_ddos.py
-    ```
-3. View the results and accuracy of the detection.
+1. Start server_side code.
+2. Then run Sender_side code.
+3. View the results(as DDOS attack is perfomed or not).
 
 
 ## Screenshots
