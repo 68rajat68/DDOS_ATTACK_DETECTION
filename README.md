@@ -4,7 +4,7 @@
 
 The Distributed Denial of Service (DDoS) attack is a significant threat to internet servers. It occurs when a large number of users simultaneously access a target, overwhelming the server and causing disruptions. Detecting such attacks can be challenging due to their nature and scale.
 
-This project aims to identify DDoS attacks using entropy computing to determine the accuracy of an attack.
+This project aims to identify DDoS attacks using entropy computing .
 
 ## Table of Contents
 
